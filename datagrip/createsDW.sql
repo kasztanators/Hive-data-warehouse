@@ -1,5 +1,6 @@
 create table if not exists Dim_Survey(
-    ID_Survey int, Statuses string)
+    ID_Survey int,
+    Status string)
     stored as textfile;
 
 create table if not exists Dim_Student (
@@ -10,14 +11,15 @@ create table if not exists Dim_Student (
   IsCurrent boolean,
   StartTime timestamp,
   EndTime timestamp,
-  Student_Index int
+  Student_Index int,
+  FavouriteCourses ARRAY<string>
 ) stored as textfile ;
 
-create table if not exists Dim_Time (
+create external table if not exists Dim_Time (
   ID_Time int,
   Hour int,
   TimeOfDay string
-);
+) stored as sequencefile ;
 
 create table if not exists Dim_Date (
   ID_Date int,
@@ -27,24 +29,23 @@ create table if not exists Dim_Date (
   MonthNo int,
   DayOfWeek string,
   DayOfWeekNo int
-);
+) stored as textfile ;
 
 create table if not exists Dim_Tutor (
   ID_Tutor int ,
-  FirstName string,
-  LastName string
-);
+  Person struct<LastName: string, Firstname: string>
+) stored as textfile ;
 
 create table if not exists Dim_Faculty (
   ID_Faculty int,
   Name string
-);
+) stored as textfile ;
 
 create table if not exists Dim_Course (
   ID_Course int,
   Name string,
   NumOfHours string
-);
+) stored as textfile ;
 
 
 create table if not exists Fact_Enrollment (
@@ -55,11 +56,10 @@ create table if not exists Fact_Enrollment (
   ID_Course int ,
   ID_Student int ,
   ID_Survey int ,
-  CompletitionPercentage int CHECK (CompletitionPercentage >= 0 AND CompletitionPercentage <= 100),
-  ContentRate int CHECK (ContentRate >= 0 AND ContentRate <= 10),
-  TimeRate int CHECK (TimeRate >= 0 AND TimeRate <= 10),
-  HardnessRate int CHECK (HardnessRate >= 0 AND HardnessRate <= 10),
-  ToutorRate int CHECK (ToutorRate >= 0 AND ToutorRate <= 10),
-    constraint GradeConstraint CHECK (Grade >= 2 AND Grade <= 5)
-);
+  CompletitionPercentage int,
+  ContentRate int ,
+  TimeRate int ,
+  HardnessRate int ,
+  TutorRate int
+) stored as parquet;
 
