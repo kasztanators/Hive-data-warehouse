@@ -13,13 +13,14 @@ create table if not exists Dim_Student (
   EndTime timestamp,
   Student_Index int,
   FavouriteCourses ARRAY<string>
-) stored as textfile ;
+) PARTITIONED BY (BirthYear int)
+    stored as textfile ;
 
 create external table if not exists Dim_Time (
   ID_Time int,
-  Hour int,
   TimeOfDay string
-) stored as sequencefile ;
+) PARTITIONED BY (Hour int)
+    stored as sequencefile ;
 
 create table if not exists Dim_Date (
   ID_Date int,
@@ -29,7 +30,8 @@ create table if not exists Dim_Date (
   MonthNo int,
   DayOfWeek string,
   DayOfWeekNo int
-) stored as textfile ;
+)
+    stored as textfile ;
 
 create table if not exists Dim_Tutor (
   ID_Tutor int ,
@@ -61,5 +63,6 @@ create table if not exists Fact_Enrollment (
   TimeRate int ,
   HardnessRate int ,
   TutorRate int
-) stored as parquet;
+) clustered by (ID_Course) INTO 10 BUCKETS
+    stored as parquet;
 
