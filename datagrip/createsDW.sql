@@ -1,6 +1,12 @@
 create table if not exists Dim_Survey(
     ID_Survey int,
-    Status string)
+    difficulty int,
+    content int,
+    tutor int,
+    hours int)
+    row format delimited
+fields terminated BY ','
+lines terminated BY '\n'
     stored as textfile;
 
 create table if not exists Dim_Student (
@@ -8,52 +14,69 @@ create table if not exists Dim_Student (
   LastName string,
   FirstName string,
   Email string,
-  IsCurrent boolean,
-  StartTime timestamp,
-  EndTime timestamp,
   Student_Index int,
   FavouriteCourses ARRAY<string>
 ) PARTITIONED BY (BirthYear int)
+    row format delimited
+fields terminated BY ','
+COLLECTION ITEMS TERMINATED BY ':'
+lines terminated BY '\n'
     stored as textfile ;
 
 create external table if not exists Dim_Time (
   ID_Time int,
+  hour int,
   TimeOfDay string
-) PARTITIONED BY (Hour int)
-    stored as sequencefile ;
+)   row format delimited
+fields terminated BY ','
+lines terminated BY '\n'
+    stored as sequencefile;
+
 
 create table if not exists Dim_Date (
-  ID_Date int,
-  DateInfo timestamp,
+  WholeDate date,
   Year int,
   Month string,
   MonthNo int,
   DayOfWeek string,
   DayOfWeekNo int
-)
+)    row format delimited
+fields terminated BY ','
+lines terminated BY '\n'
     stored as textfile ;
 
 create table if not exists Dim_Tutor (
   ID_Tutor int ,
   Person struct<LastName: string, Firstname: string>
-) stored as textfile ;
+) row format delimited
+fields terminated BY ','
+COLLECTION ITEMS TERMINATED BY ':'
+lines terminated BY '\n'
+    stored as textfile ;
 
 create table if not exists Dim_Faculty (
   ID_Faculty int,
   Name string
-) stored as textfile ;
+) row format delimited
+fields terminated BY ','
+lines terminated BY '\n'
+    stored as textfile ;
 
 create table if not exists Dim_Course (
   ID_Course int,
   Name string,
-  NumOfHours string
-) stored as textfile ;
+  NumOfHours string,
+    FK_ID_Faculty int
+) row format delimited
+fields terminated BY ','
+lines terminated BY '\n'
+    stored as textfile ;
 
 
 create table if not exists Fact_Enrollment (
   Grade decimal,
-  ID_StartDate int,
-  ID_FinishDate int,
+  ID_StartDate date,
+  ID_FinishDate date,
   ID_Time int ,
   ID_Course int ,
   ID_Student int ,
@@ -64,5 +87,15 @@ create table if not exists Fact_Enrollment (
   HardnessRate int ,
   TutorRate int
 ) clustered by (ID_Course) INTO 10 BUCKETS
+    row format delimited
+fields terminated BY ','
+lines terminated BY '\n'
     stored as parquet;
 
+create table if not exists fact_teaching (
+  ID_Course int,
+  ID_Tutor int
+) row format delimited
+fields terminated BY ','
+lines terminated BY '\n'
+    stored as textfile ;
