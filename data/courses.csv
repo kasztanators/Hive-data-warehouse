@@ -1,0 +1,1000 @@
+1,Advanced Calculus 1,25,11
+2,Advanced Calculus 2,18,11
+3,Advanced Algebra 1,45,2
+4,Advanced Algebra 2,65,2
+5,Advanced Geometry 1,92,9
+6,Advanced Geometry 2,43,9
+7,Advanced Mechanics 1,69,8
+8,Advanced Mechanics 2,113,8
+9,Advanced Data Science 1,115,1
+10,Advanced Data Science 2,116,1
+11,Advanced Linear Programming 1,56,6
+12,Advanced Linear Programming 2,27,6
+13,Advanced Neuroscience 1,58,10
+14,Advanced Neuroscience 2,80,10
+15,Advanced Modeling 1,33,5
+16,Advanced Modeling 2,83,5
+17,Advanced Probability Theory 1,97,7
+18,Advanced Probability Theory 2,16,7
+19,Advanced Methods 1,74,5
+20,Advanced Methods 2,87,5
+21,Advanced Equations 1,41,1
+22,Advanced Equations 2,81,1
+23,Advanced Number Theory 1,55,2
+24,Advanced Number Theory 2,57,2
+25,Advanced Optimization 1,50,3
+26,Advanced Optimization 2,53,3
+27,Advanced Machine Learning 1,51,8
+28,Advanced Machine Learning 2,103,8
+29,Advanced Topology 1,50,1
+30,Advanced Topology 2,19,1
+31,Advanced Physics 1,40,6
+32,Advanced Physics 2,100,6
+33,Advanced Graph Theory 1,29,5
+34,Advanced Graph Theory 2,22,5
+35,Advanced Processes 1,57,3
+36,Advanced Processes 2,55,3
+37,Advanced Inference 1,29,8
+38,Advanced Inference 2,30,8
+39,Advanced Regression Analysis 1,119,2
+40,Advanced Regression Analysis 2,65,2
+41,Advanced Programming 1,34,1
+42,Advanced Programming 2,48,1
+43,Advanced Statistics 1,112,1
+44,Advanced Statistics 2,106,1
+45,Advanced Databases 1,72,10
+46,Advanced Databases 2,63,10
+47,Advanced Physics 1,20,10
+48,Advanced Physics 2,77,10
+49,Advanced Informatics 1,87,11
+50,Advanced Informatics 2,54,11
+51,Introduction to Calculus 1,87,2
+52,Introduction to Calculus 2,98,2
+53,Introduction to Algebra 1,116,8
+54,Introduction to Algebra 2,119,8
+55,Introduction to Geometry 1,104,2
+56,Introduction to Geometry 2,17,2
+57,Introduction to Mechanics 1,105,11
+58,Introduction to Mechanics 2,75,11
+59,Introduction to Data Science 1,85,3
+60,Introduction to Data Science 2,29,3
+61,Introduction to Linear Programming 1,16,7
+62,Introduction to Linear Programming 2,44,7
+63,Introduction to Neuroscience 1,94,11
+64,Introduction to Neuroscience 2,99,11
+65,Introduction to Modeling 1,38,6
+66,Introduction to Modeling 2,57,6
+67,Introduction to Probability Theory 1,78,8
+68,Introduction to Probability Theory 2,91,8
+69,Introduction to Methods 1,70,1
+70,Introduction to Methods 2,108,1
+71,Introduction to Equations 1,78,11
+72,Introduction to Equations 2,94,11
+73,Introduction to Number Theory 1,99,4
+74,Introduction to Number Theory 2,24,4
+75,Introduction to Optimization 1,73,7
+76,Introduction to Optimization 2,41,7
+77,Introduction to Machine Learning 1,64,4
+78,Introduction to Machine Learning 2,114,4
+79,Introduction to Topology 1,62,11
+80,Introduction to Topology 2,57,11
+81,Introduction to Physics 1,55,2
+82,Introduction to Physics 2,82,2
+83,Introduction to Graph Theory 1,94,6
+84,Introduction to Graph Theory 2,15,6
+85,Introduction to Processes 1,40,11
+86,Introduction to Processes 2,102,11
+87,Introduction to Inference 1,58,11
+88,Introduction to Inference 2,75,11
+89,Introduction to Regression Analysis 1,35,10
+90,Introduction to Regression Analysis 2,26,10
+91,Introduction to Programming 1,60,8
+92,Introduction to Programming 2,66,8
+93,Introduction to Statistics 1,20,5
+94,Introduction to Statistics 2,73,5
+95,Introduction to Databases 1,33,10
+96,Introduction to Databases 2,90,10
+97,Introduction to Physics 1,81,7
+98,Introduction to Physics 2,103,7
+99,Introduction to Informatics 1,43,7
+100,Introduction to Informatics 2,37,7
+101,Principles of Calculus 1,29,5
+102,Principles of Calculus 2,94,5
+103,Principles of Algebra 1,87,1
+104,Principles of Algebra 2,25,1
+105,Principles of Geometry 1,45,8
+106,Principles of Geometry 2,20,8
+107,Principles of Mechanics 1,16,1
+108,Principles of Mechanics 2,118,1
+109,Principles of Data Science 1,46,2
+110,Principles of Data Science 2,73,2
+111,Principles of Linear Programming 1,26,10
+112,Principles of Linear Programming 2,18,10
+113,Principles of Neuroscience 1,27,8
+114,Principles of Neuroscience 2,44,8
+115,Principles of Modeling 1,56,5
+116,Principles of Modeling 2,26,5
+117,Principles of Probability Theory 1,84,2
+118,Principles of Probability Theory 2,105,2
+119,Principles of Methods 1,19,9
+120,Principles of Methods 2,99,9
+121,Principles of Equations 1,27,4
+122,Principles of Equations 2,111,4
+123,Principles of Number Theory 1,72,9
+124,Principles of Number Theory 2,106,9
+125,Principles of Optimization 1,24,4
+126,Principles of Optimization 2,51,4
+127,Principles of Machine Learning 1,41,8
+128,Principles of Machine Learning 2,57,8
+129,Principles of Topology 1,107,4
+130,Principles of Topology 2,16,4
+131,Principles of Physics 1,22,3
+132,Principles of Physics 2,104,3
+133,Principles of Graph Theory 1,77,5
+134,Principles of Graph Theory 2,114,5
+135,Principles of Processes 1,81,6
+136,Principles of Processes 2,120,6
+137,Principles of Inference 1,58,10
+138,Principles of Inference 2,65,10
+139,Principles of Regression Analysis 1,53,9
+140,Principles of Regression Analysis 2,45,9
+141,Principles of Programming 1,98,2
+142,Principles of Programming 2,20,2
+143,Principles of Statistics 1,88,10
+144,Principles of Statistics 2,112,10
+145,Principles of Databases 1,62,8
+146,Principles of Databases 2,111,8
+147,Principles of Physics 1,40,2
+148,Principles of Physics 2,110,2
+149,Principles of Informatics 1,84,8
+150,Principles of Informatics 2,84,8
+151,Computational Calculus 1,104,7
+152,Computational Calculus 2,73,7
+153,Computational Algebra 1,48,2
+154,Computational Algebra 2,53,2
+155,Computational Geometry 1,109,1
+156,Computational Geometry 2,33,1
+157,Computational Mechanics 1,77,7
+158,Computational Mechanics 2,41,7
+159,Computational Data Science 1,32,5
+160,Computational Data Science 2,52,5
+161,Computational Linear Programming 1,95,4
+162,Computational Linear Programming 2,46,4
+163,Computational Neuroscience 1,63,11
+164,Computational Neuroscience 2,74,11
+165,Computational Modeling 1,99,2
+166,Computational Modeling 2,59,2
+167,Computational Probability Theory 1,70,10
+168,Computational Probability Theory 2,37,10
+169,Computational Methods 1,74,3
+170,Computational Methods 2,95,3
+171,Computational Equations 1,89,8
+172,Computational Equations 2,66,8
+173,Computational Number Theory 1,112,11
+174,Computational Number Theory 2,107,11
+175,Computational Optimization 1,118,2
+176,Computational Optimization 2,36,2
+177,Computational Machine Learning 1,113,9
+178,Computational Machine Learning 2,70,9
+179,Computational Topology 1,109,4
+180,Computational Topology 2,100,4
+181,Computational Physics 1,107,8
+182,Computational Physics 2,50,8
+183,Computational Graph Theory 1,60,11
+184,Computational Graph Theory 2,24,11
+185,Computational Processes 1,30,3
+186,Computational Processes 2,58,3
+187,Computational Inference 1,59,8
+188,Computational Inference 2,107,8
+189,Computational Regression Analysis 1,104,1
+190,Computational Regression Analysis 2,115,1
+191,Computational Programming 1,62,6
+192,Computational Programming 2,42,6
+193,Computational Statistics 1,33,7
+194,Computational Statistics 2,116,7
+195,Computational Databases 1,43,2
+196,Computational Databases 2,92,2
+197,Computational Physics 1,44,1
+198,Computational Physics 2,61,1
+199,Computational Informatics 1,23,7
+200,Computational Informatics 2,120,7
+201,Topics in Calculus 1,91,4
+202,Topics in Calculus 2,73,4
+203,Topics in Algebra 1,76,6
+204,Topics in Algebra 2,91,6
+205,Topics in Geometry 1,109,4
+206,Topics in Geometry 2,77,4
+207,Topics in Mechanics 1,38,11
+208,Topics in Mechanics 2,66,11
+209,Topics in Data Science 1,23,8
+210,Topics in Data Science 2,39,8
+211,Topics in Linear Programming 1,27,11
+212,Topics in Linear Programming 2,108,11
+213,Topics in Neuroscience 1,69,2
+214,Topics in Neuroscience 2,63,2
+215,Topics in Modeling 1,44,8
+216,Topics in Modeling 2,53,8
+217,Topics in Probability Theory 1,49,3
+218,Topics in Probability Theory 2,118,3
+219,Topics in Methods 1,118,3
+220,Topics in Methods 2,32,3
+221,Topics in Equations 1,65,1
+222,Topics in Equations 2,116,1
+223,Topics in Number Theory 1,111,8
+224,Topics in Number Theory 2,72,8
+225,Topics in Optimization 1,114,5
+226,Topics in Optimization 2,57,5
+227,Topics in Machine Learning 1,73,3
+228,Topics in Machine Learning 2,79,3
+229,Topics in Topology 1,34,7
+230,Topics in Topology 2,112,7
+231,Topics in Physics 1,56,2
+232,Topics in Physics 2,99,2
+233,Topics in Graph Theory 1,17,10
+234,Topics in Graph Theory 2,27,10
+235,Topics in Processes 1,15,9
+236,Topics in Processes 2,28,9
+237,Topics in Inference 1,74,9
+238,Topics in Inference 2,56,9
+239,Topics in Regression Analysis 1,16,11
+240,Topics in Regression Analysis 2,115,11
+241,Topics in Programming 1,21,1
+242,Topics in Programming 2,25,1
+243,Topics in Statistics 1,91,5
+244,Topics in Statistics 2,23,5
+245,Topics in Databases 1,36,4
+246,Topics in Databases 2,44,4
+247,Topics in Physics 1,114,10
+248,Topics in Physics 2,120,10
+249,Topics in Informatics 1,47,7
+250,Topics in Informatics 2,60,7
+251,Stochastic Calculus 1,20,10
+252,Stochastic Calculus 2,38,10
+253,Stochastic Algebra 1,49,9
+254,Stochastic Algebra 2,52,9
+255,Stochastic Geometry 1,70,6
+256,Stochastic Geometry 2,81,6
+257,Stochastic Mechanics 1,96,8
+258,Stochastic Mechanics 2,19,8
+259,Stochastic Data Science 1,105,6
+260,Stochastic Data Science 2,104,6
+261,Stochastic Linear Programming 1,70,2
+262,Stochastic Linear Programming 2,49,2
+263,Stochastic Neuroscience 1,120,2
+264,Stochastic Neuroscience 2,99,2
+265,Stochastic Modeling 1,51,10
+266,Stochastic Modeling 2,88,10
+267,Stochastic Probability Theory 1,23,1
+268,Stochastic Probability Theory 2,15,1
+269,Stochastic Methods 1,40,4
+270,Stochastic Methods 2,91,4
+271,Stochastic Equations 1,47,1
+272,Stochastic Equations 2,87,1
+273,Stochastic Number Theory 1,33,1
+274,Stochastic Number Theory 2,25,1
+275,Stochastic Optimization 1,97,10
+276,Stochastic Optimization 2,113,10
+277,Stochastic Machine Learning 1,98,5
+278,Stochastic Machine Learning 2,84,5
+279,Stochastic Topology 1,107,11
+280,Stochastic Topology 2,30,11
+281,Stochastic Physics 1,40,6
+282,Stochastic Physics 2,94,6
+283,Stochastic Graph Theory 1,120,7
+284,Stochastic Graph Theory 2,40,7
+285,Stochastic Processes 1,58,6
+286,Stochastic Processes 2,17,6
+287,Stochastic Inference 1,82,11
+288,Stochastic Inference 2,82,11
+289,Stochastic Regression Analysis 1,96,9
+290,Stochastic Regression Analysis 2,74,9
+291,Stochastic Programming 1,64,6
+292,Stochastic Programming 2,21,6
+293,Stochastic Statistics 1,19,10
+294,Stochastic Statistics 2,74,10
+295,Stochastic Databases 1,83,9
+296,Stochastic Databases 2,82,9
+297,Stochastic Physics 1,96,5
+298,Stochastic Physics 2,56,5
+299,Stochastic Informatics 1,24,1
+300,Stochastic Informatics 2,90,1
+301,Numerical Calculus 1,46,5
+302,Numerical Calculus 2,106,5
+303,Numerical Algebra 1,60,1
+304,Numerical Algebra 2,112,1
+305,Numerical Geometry 1,58,2
+306,Numerical Geometry 2,24,2
+307,Numerical Mechanics 1,23,5
+308,Numerical Mechanics 2,72,5
+309,Numerical Data Science 1,61,10
+310,Numerical Data Science 2,113,10
+311,Numerical Linear Programming 1,30,6
+312,Numerical Linear Programming 2,26,6
+313,Numerical Neuroscience 1,86,1
+314,Numerical Neuroscience 2,49,1
+315,Numerical Modeling 1,77,11
+316,Numerical Modeling 2,27,11
+317,Numerical Probability Theory 1,88,9
+318,Numerical Probability Theory 2,116,9
+319,Numerical Methods 1,28,5
+320,Numerical Methods 2,20,5
+321,Numerical Equations 1,31,2
+322,Numerical Equations 2,69,2
+323,Numerical Number Theory 1,75,4
+324,Numerical Number Theory 2,59,4
+325,Numerical Optimization 1,108,9
+326,Numerical Optimization 2,90,9
+327,Numerical Machine Learning 1,110,4
+328,Numerical Machine Learning 2,78,4
+329,Numerical Topology 1,97,9
+330,Numerical Topology 2,115,9
+331,Numerical Physics 1,49,8
+332,Numerical Physics 2,62,8
+333,Numerical Graph Theory 1,78,6
+334,Numerical Graph Theory 2,50,6
+335,Numerical Processes 1,56,1
+336,Numerical Processes 2,93,1
+337,Numerical Inference 1,79,9
+338,Numerical Inference 2,101,9
+339,Numerical Regression Analysis 1,76,3
+340,Numerical Regression Analysis 2,22,3
+341,Numerical Programming 1,42,5
+342,Numerical Programming 2,86,5
+343,Numerical Statistics 1,65,4
+344,Numerical Statistics 2,64,4
+345,Numerical Databases 1,104,9
+346,Numerical Databases 2,41,9
+347,Numerical Physics 1,31,4
+348,Numerical Physics 2,101,4
+349,Numerical Informatics 1,68,6
+350,Numerical Informatics 2,77,6
+351,Mathematical Calculus 1,80,2
+352,Mathematical Calculus 2,51,2
+353,Mathematical Algebra 1,89,7
+354,Mathematical Algebra 2,24,7
+355,Mathematical Geometry 1,97,9
+356,Mathematical Geometry 2,56,9
+357,Mathematical Mechanics 1,119,7
+358,Mathematical Mechanics 2,103,7
+359,Mathematical Data Science 1,33,4
+360,Mathematical Data Science 2,48,4
+361,Mathematical Linear Programming 1,27,10
+362,Mathematical Linear Programming 2,62,10
+363,Mathematical Neuroscience 1,99,3
+364,Mathematical Neuroscience 2,51,3
+365,Mathematical Modeling 1,57,8
+366,Mathematical Modeling 2,96,8
+367,Mathematical Probability Theory 1,40,3
+368,Mathematical Probability Theory 2,27,3
+369,Mathematical Methods 1,18,2
+370,Mathematical Methods 2,45,2
+371,Mathematical Equations 1,47,3
+372,Mathematical Equations 2,61,3
+373,Mathematical Number Theory 1,47,2
+374,Mathematical Number Theory 2,45,2
+375,Mathematical Optimization 1,89,4
+376,Mathematical Optimization 2,44,4
+377,Mathematical Machine Learning 1,56,3
+378,Mathematical Machine Learning 2,85,3
+379,Mathematical Topology 1,88,5
+380,Mathematical Topology 2,48,5
+381,Mathematical Physics 1,95,10
+382,Mathematical Physics 2,120,10
+383,Mathematical Graph Theory 1,43,6
+384,Mathematical Graph Theory 2,89,6
+385,Mathematical Processes 1,112,9
+386,Mathematical Processes 2,30,9
+387,Mathematical Inference 1,51,2
+388,Mathematical Inference 2,106,2
+389,Mathematical Regression Analysis 1,56,8
+390,Mathematical Regression Analysis 2,112,8
+391,Mathematical Programming 1,51,1
+392,Mathematical Programming 2,107,1
+393,Mathematical Statistics 1,120,8
+394,Mathematical Statistics 2,104,8
+395,Mathematical Databases 1,24,11
+396,Mathematical Databases 2,106,11
+397,Mathematical Physics 1,92,9
+398,Mathematical Physics 2,36,9
+399,Mathematical Informatics 1,70,10
+400,Mathematical Informatics 2,63,10
+401,Real Calculus 1,66,10
+402,Real Calculus 2,65,10
+403,Real Algebra 1,58,1
+404,Real Algebra 2,60,1
+405,Real Geometry 1,61,5
+406,Real Geometry 2,50,5
+407,Real Mechanics 1,21,6
+408,Real Mechanics 2,88,6
+409,Real Data Science 1,103,10
+410,Real Data Science 2,42,10
+411,Real Linear Programming 1,55,2
+412,Real Linear Programming 2,92,2
+413,Real Neuroscience 1,63,11
+414,Real Neuroscience 2,99,11
+415,Real Modeling 1,73,9
+416,Real Modeling 2,20,9
+417,Real Probability Theory 1,42,7
+418,Real Probability Theory 2,116,7
+419,Real Methods 1,82,3
+420,Real Methods 2,69,3
+421,Real Equations 1,79,4
+422,Real Equations 2,97,4
+423,Real Number Theory 1,34,8
+424,Real Number Theory 2,73,8
+425,Real Optimization 1,88,8
+426,Real Optimization 2,33,8
+427,Real Machine Learning 1,67,6
+428,Real Machine Learning 2,79,6
+429,Real Topology 1,81,8
+430,Real Topology 2,77,8
+431,Real Physics 1,66,10
+432,Real Physics 2,34,10
+433,Real Graph Theory 1,65,1
+434,Real Graph Theory 2,118,1
+435,Real Processes 1,28,2
+436,Real Processes 2,80,2
+437,Real Inference 1,28,9
+438,Real Inference 2,59,9
+439,Real Regression Analysis 1,92,2
+440,Real Regression Analysis 2,98,2
+441,Real Programming 1,86,5
+442,Real Programming 2,95,5
+443,Real Statistics 1,56,4
+444,Real Statistics 2,41,4
+445,Real Databases 1,90,11
+446,Real Databases 2,51,11
+447,Real Physics 1,42,1
+448,Real Physics 2,63,1
+449,Real Informatics 1,82,9
+450,Real Informatics 2,93,9
+451,Information Calculus 1,41,6
+452,Information Calculus 2,109,6
+453,Information Algebra 1,106,1
+454,Information Algebra 2,101,1
+455,Information Geometry 1,58,5
+456,Information Geometry 2,52,5
+457,Information Mechanics 1,15,11
+458,Information Mechanics 2,86,11
+459,Information Data Science 1,25,9
+460,Information Data Science 2,36,9
+461,Information Linear Programming 1,25,4
+462,Information Linear Programming 2,38,4
+463,Information Neuroscience 1,110,9
+464,Information Neuroscience 2,35,9
+465,Information Modeling 1,96,4
+466,Information Modeling 2,80,4
+467,Information Probability Theory 1,58,5
+468,Information Probability Theory 2,116,5
+469,Information Methods 1,83,9
+470,Information Methods 2,72,9
+471,Information Equations 1,64,6
+472,Information Equations 2,107,6
+473,Information Number Theory 1,36,5
+474,Information Number Theory 2,86,5
+475,Information Optimization 1,92,7
+476,Information Optimization 2,49,7
+477,Information Machine Learning 1,16,4
+478,Information Machine Learning 2,105,4
+479,Information Topology 1,112,2
+480,Information Topology 2,57,2
+481,Information Physics 1,115,1
+482,Information Physics 2,120,1
+483,Information Graph Theory 1,24,11
+484,Information Graph Theory 2,98,11
+485,Information Processes 1,89,11
+486,Information Processes 2,118,11
+487,Information Inference 1,114,7
+488,Information Inference 2,52,7
+489,Information Regression Analysis 1,43,7
+490,Information Regression Analysis 2,36,7
+491,Information Programming 1,35,2
+492,Information Programming 2,38,2
+493,Information Statistics 1,93,6
+494,Information Statistics 2,68,6
+495,Information Databases 1,66,3
+496,Information Databases 2,104,3
+497,Information Physics 1,82,3
+498,Information Physics 2,104,3
+499,Information Informatics 1,47,9
+500,Information Informatics 2,43,9
+501,Combinatorics Calculus 1,32,6
+502,Combinatorics Calculus 2,60,6
+503,Combinatorics Algebra 1,76,1
+504,Combinatorics Algebra 2,119,1
+505,Combinatorics Geometry 1,101,4
+506,Combinatorics Geometry 2,22,4
+507,Combinatorics Mechanics 1,48,1
+508,Combinatorics Mechanics 2,15,1
+509,Combinatorics Data Science 1,40,9
+510,Combinatorics Data Science 2,35,9
+511,Combinatorics Linear Programming 1,46,7
+512,Combinatorics Linear Programming 2,30,7
+513,Combinatorics Neuroscience 1,40,4
+514,Combinatorics Neuroscience 2,109,4
+515,Combinatorics Modeling 1,88,7
+516,Combinatorics Modeling 2,20,7
+517,Combinatorics Probability Theory 1,62,7
+518,Combinatorics Probability Theory 2,120,7
+519,Combinatorics Methods 1,43,8
+520,Combinatorics Methods 2,72,8
+521,Combinatorics Equations 1,20,4
+522,Combinatorics Equations 2,103,4
+523,Combinatorics Number Theory 1,32,4
+524,Combinatorics Number Theory 2,86,4
+525,Combinatorics Optimization 1,106,7
+526,Combinatorics Optimization 2,17,7
+527,Combinatorics Machine Learning 1,81,7
+528,Combinatorics Machine Learning 2,31,7
+529,Combinatorics Topology 1,49,11
+530,Combinatorics Topology 2,118,11
+531,Combinatorics Physics 1,87,5
+532,Combinatorics Physics 2,31,5
+533,Combinatorics Graph Theory 1,101,7
+534,Combinatorics Graph Theory 2,47,7
+535,Combinatorics Processes 1,73,8
+536,Combinatorics Processes 2,99,8
+537,Combinatorics Inference 1,102,4
+538,Combinatorics Inference 2,22,4
+539,Combinatorics Regression Analysis 1,110,9
+540,Combinatorics Regression Analysis 2,25,9
+541,Combinatorics Programming 1,55,6
+542,Combinatorics Programming 2,20,6
+543,Combinatorics Statistics 1,93,8
+544,Combinatorics Statistics 2,115,8
+545,Combinatorics Databases 1,61,11
+546,Combinatorics Databases 2,54,11
+547,Combinatorics Physics 1,33,10
+548,Combinatorics Physics 2,112,10
+549,Combinatorics Informatics 1,105,9
+550,Combinatorics Informatics 2,62,9
+551,Deep Calculus 1,46,8
+552,Deep Calculus 2,50,8
+553,Deep Algebra 1,25,9
+554,Deep Algebra 2,20,9
+555,Deep Geometry 1,105,10
+556,Deep Geometry 2,50,10
+557,Deep Mechanics 1,82,2
+558,Deep Mechanics 2,65,2
+559,Deep Data Science 1,19,3
+560,Deep Data Science 2,85,3
+561,Deep Linear Programming 1,97,11
+562,Deep Linear Programming 2,19,11
+563,Deep Neuroscience 1,91,1
+564,Deep Neuroscience 2,68,1
+565,Deep Modeling 1,86,7
+566,Deep Modeling 2,108,7
+567,Deep Probability Theory 1,41,8
+568,Deep Probability Theory 2,83,8
+569,Deep Methods 1,85,6
+570,Deep Methods 2,69,6
+571,Deep Equations 1,19,4
+572,Deep Equations 2,88,4
+573,Deep Number Theory 1,72,11
+574,Deep Number Theory 2,91,11
+575,Deep Optimization 1,66,10
+576,Deep Optimization 2,33,10
+577,Deep Machine Learning 1,101,7
+578,Deep Machine Learning 2,44,7
+579,Deep Topology 1,39,3
+580,Deep Topology 2,98,3
+581,Deep Physics 1,29,8
+582,Deep Physics 2,79,8
+583,Deep Graph Theory 1,74,11
+584,Deep Graph Theory 2,74,11
+585,Deep Processes 1,45,10
+586,Deep Processes 2,59,10
+587,Deep Inference 1,84,8
+588,Deep Inference 2,15,8
+589,Deep Regression Analysis 1,38,3
+590,Deep Regression Analysis 2,67,3
+591,Deep Programming 1,46,4
+592,Deep Programming 2,69,4
+593,Deep Statistics 1,81,11
+594,Deep Statistics 2,23,11
+595,Deep Databases 1,92,11
+596,Deep Databases 2,31,11
+597,Deep Physics 1,27,11
+598,Deep Physics 2,48,11
+599,Deep Informatics 1,24,3
+600,Deep Informatics 2,22,3
+601,Applied Calculus 1,38,8
+602,Applied Calculus 2,77,8
+603,Applied Algebra 1,87,5
+604,Applied Algebra 2,102,5
+605,Applied Geometry 1,64,11
+606,Applied Geometry 2,76,11
+607,Applied Mechanics 1,60,6
+608,Applied Mechanics 2,73,6
+609,Applied Data Science 1,48,7
+610,Applied Data Science 2,87,7
+611,Applied Linear Programming 1,55,9
+612,Applied Linear Programming 2,29,9
+613,Applied Neuroscience 1,91,2
+614,Applied Neuroscience 2,76,2
+615,Applied Modeling 1,24,11
+616,Applied Modeling 2,35,11
+617,Applied Probability Theory 1,80,5
+618,Applied Probability Theory 2,52,5
+619,Applied Methods 1,55,11
+620,Applied Methods 2,93,11
+621,Applied Equations 1,107,4
+622,Applied Equations 2,108,4
+623,Applied Number Theory 1,60,9
+624,Applied Number Theory 2,64,9
+625,Applied Optimization 1,44,6
+626,Applied Optimization 2,60,6
+627,Applied Machine Learning 1,114,4
+628,Applied Machine Learning 2,42,4
+629,Applied Topology 1,55,6
+630,Applied Topology 2,63,6
+631,Applied Physics 1,28,10
+632,Applied Physics 2,65,10
+633,Applied Graph Theory 1,22,11
+634,Applied Graph Theory 2,87,11
+635,Applied Processes 1,53,2
+636,Applied Processes 2,107,2
+637,Applied Inference 1,69,7
+638,Applied Inference 2,90,7
+639,Applied Regression Analysis 1,58,10
+640,Applied Regression Analysis 2,25,10
+641,Applied Programming 1,68,5
+642,Applied Programming 2,68,5
+643,Applied Statistics 1,108,11
+644,Applied Statistics 2,83,11
+645,Applied Databases 1,54,1
+646,Applied Databases 2,92,1
+647,Applied Physics 1,62,8
+648,Applied Physics 2,94,8
+649,Applied Informatics 1,77,2
+650,Applied Informatics 2,107,2
+651,Modern Calculus 1,64,11
+652,Modern Calculus 2,19,11
+653,Modern Algebra 1,78,10
+654,Modern Algebra 2,104,10
+655,Modern Geometry 1,104,8
+656,Modern Geometry 2,53,8
+657,Modern Mechanics 1,81,1
+658,Modern Mechanics 2,102,1
+659,Modern Data Science 1,15,6
+660,Modern Data Science 2,34,6
+661,Modern Linear Programming 1,63,6
+662,Modern Linear Programming 2,20,6
+663,Modern Neuroscience 1,35,2
+664,Modern Neuroscience 2,115,2
+665,Modern Modeling 1,61,4
+666,Modern Modeling 2,109,4
+667,Modern Probability Theory 1,43,3
+668,Modern Probability Theory 2,104,3
+669,Modern Methods 1,56,9
+670,Modern Methods 2,73,9
+671,Modern Equations 1,71,5
+672,Modern Equations 2,115,5
+673,Modern Number Theory 1,39,1
+674,Modern Number Theory 2,35,1
+675,Modern Optimization 1,38,10
+676,Modern Optimization 2,38,10
+677,Modern Machine Learning 1,107,7
+678,Modern Machine Learning 2,46,7
+679,Modern Topology 1,85,5
+680,Modern Topology 2,119,5
+681,Modern Physics 1,82,10
+682,Modern Physics 2,77,10
+683,Modern Graph Theory 1,66,6
+684,Modern Graph Theory 2,67,6
+685,Modern Processes 1,46,3
+686,Modern Processes 2,118,3
+687,Modern Inference 1,44,2
+688,Modern Inference 2,52,2
+689,Modern Regression Analysis 1,119,6
+690,Modern Regression Analysis 2,23,6
+691,Modern Programming 1,93,5
+692,Modern Programming 2,95,5
+693,Modern Statistics 1,82,2
+694,Modern Statistics 2,45,2
+695,Modern Databases 1,70,11
+696,Modern Databases 2,92,11
+697,Modern Physics 1,45,1
+698,Modern Physics 2,83,1
+699,Modern Informatics 1,85,3
+700,Modern Informatics 2,58,3
+701,Foundations of Calculus 1,24,11
+702,Foundations of Calculus 2,63,11
+703,Foundations of Algebra 1,67,6
+704,Foundations of Algebra 2,30,6
+705,Foundations of Geometry 1,38,7
+706,Foundations of Geometry 2,60,7
+707,Foundations of Mechanics 1,28,4
+708,Foundations of Mechanics 2,67,4
+709,Foundations of Data Science 1,78,4
+710,Foundations of Data Science 2,116,4
+711,Foundations of Linear Programming 1,48,9
+712,Foundations of Linear Programming 2,66,9
+713,Foundations of Neuroscience 1,114,11
+714,Foundations of Neuroscience 2,64,11
+715,Foundations of Modeling 1,91,3
+716,Foundations of Modeling 2,101,3
+717,Foundations of Probability Theory 1,97,6
+718,Foundations of Probability Theory 2,81,6
+719,Foundations of Methods 1,15,8
+720,Foundations of Methods 2,87,8
+721,Foundations of Equations 1,40,10
+722,Foundations of Equations 2,84,10
+723,Foundations of Number Theory 1,90,6
+724,Foundations of Number Theory 2,17,6
+725,Foundations of Optimization 1,100,1
+726,Foundations of Optimization 2,107,1
+727,Foundations of Machine Learning 1,64,3
+728,Foundations of Machine Learning 2,37,3
+729,Foundations of Topology 1,58,9
+730,Foundations of Topology 2,107,9
+731,Foundations of Physics 1,20,3
+732,Foundations of Physics 2,43,3
+733,Foundations of Graph Theory 1,16,6
+734,Foundations of Graph Theory 2,73,6
+735,Foundations of Processes 1,57,11
+736,Foundations of Processes 2,107,11
+737,Foundations of Inference 1,98,6
+738,Foundations of Inference 2,95,6
+739,Foundations of Regression Analysis 1,50,4
+740,Foundations of Regression Analysis 2,21,4
+741,Foundations of Programming 1,80,1
+742,Foundations of Programming 2,44,1
+743,Foundations of Statistics 1,96,10
+744,Foundations of Statistics 2,83,10
+745,Foundations of Databases 1,58,3
+746,Foundations of Databases 2,91,3
+747,Foundations of Physics 1,58,5
+748,Foundations of Physics 2,84,5
+749,Foundations of Informatics 1,39,11
+750,Foundations of Informatics 2,49,11
+751,Statistical Calculus 1,48,8
+752,Statistical Calculus 2,30,8
+753,Statistical Algebra 1,40,5
+754,Statistical Algebra 2,100,5
+755,Statistical Geometry 1,81,3
+756,Statistical Geometry 2,89,3
+757,Statistical Mechanics 1,101,7
+758,Statistical Mechanics 2,109,7
+759,Statistical Data Science 1,98,10
+760,Statistical Data Science 2,120,10
+761,Statistical Linear Programming 1,85,1
+762,Statistical Linear Programming 2,40,1
+763,Statistical Neuroscience 1,106,4
+764,Statistical Neuroscience 2,78,4
+765,Statistical Modeling 1,26,10
+766,Statistical Modeling 2,17,10
+767,Statistical Probability Theory 1,100,9
+768,Statistical Probability Theory 2,38,9
+769,Statistical Methods 1,115,5
+770,Statistical Methods 2,112,5
+771,Statistical Equations 1,47,9
+772,Statistical Equations 2,110,9
+773,Statistical Number Theory 1,106,3
+774,Statistical Number Theory 2,61,3
+775,Statistical Optimization 1,58,5
+776,Statistical Optimization 2,45,5
+777,Statistical Machine Learning 1,106,7
+778,Statistical Machine Learning 2,49,7
+779,Statistical Topology 1,119,11
+780,Statistical Topology 2,36,11
+781,Statistical Physics 1,54,9
+782,Statistical Physics 2,48,9
+783,Statistical Graph Theory 1,68,5
+784,Statistical Graph Theory 2,71,5
+785,Statistical Processes 1,60,4
+786,Statistical Processes 2,103,4
+787,Statistical Inference 1,27,1
+788,Statistical Inference 2,41,1
+789,Statistical Regression Analysis 1,58,5
+790,Statistical Regression Analysis 2,89,5
+791,Statistical Programming 1,120,10
+792,Statistical Programming 2,117,10
+793,Statistical Statistics 1,103,10
+794,Statistical Statistics 2,55,10
+795,Statistical Databases 1,15,5
+796,Statistical Databases 2,92,5
+797,Statistical Physics 1,24,11
+798,Statistical Physics 2,50,11
+799,Statistical Informatics 1,75,6
+800,Statistical Informatics 2,70,6
+801,Algebraic Calculus 1,48,6
+802,Algebraic Calculus 2,116,6
+803,Algebraic Algebra 1,118,3
+804,Algebraic Algebra 2,108,3
+805,Algebraic Geometry 1,117,11
+806,Algebraic Geometry 2,66,11
+807,Algebraic Mechanics 1,39,3
+808,Algebraic Mechanics 2,112,3
+809,Algebraic Data Science 1,99,6
+810,Algebraic Data Science 2,40,6
+811,Algebraic Linear Programming 1,29,8
+812,Algebraic Linear Programming 2,108,8
+813,Algebraic Neuroscience 1,46,5
+814,Algebraic Neuroscience 2,88,5
+815,Algebraic Modeling 1,33,11
+816,Algebraic Modeling 2,98,11
+817,Algebraic Probability Theory 1,120,7
+818,Algebraic Probability Theory 2,113,7
+819,Algebraic Methods 1,95,1
+820,Algebraic Methods 2,50,1
+821,Algebraic Equations 1,100,3
+822,Algebraic Equations 2,106,3
+823,Algebraic Number Theory 1,17,9
+824,Algebraic Number Theory 2,77,9
+825,Algebraic Optimization 1,115,9
+826,Algebraic Optimization 2,120,9
+827,Algebraic Machine Learning 1,39,2
+828,Algebraic Machine Learning 2,40,2
+829,Algebraic Topology 1,82,7
+830,Algebraic Topology 2,66,7
+831,Algebraic Physics 1,22,1
+832,Algebraic Physics 2,45,1
+833,Algebraic Graph Theory 1,68,11
+834,Algebraic Graph Theory 2,99,11
+835,Algebraic Processes 1,23,2
+836,Algebraic Processes 2,105,2
+837,Algebraic Inference 1,56,1
+838,Algebraic Inference 2,46,1
+839,Algebraic Regression Analysis 1,96,8
+840,Algebraic Regression Analysis 2,120,8
+841,Algebraic Programming 1,40,3
+842,Algebraic Programming 2,79,3
+843,Algebraic Statistics 1,64,10
+844,Algebraic Statistics 2,111,10
+845,Algebraic Databases 1,76,5
+846,Algebraic Databases 2,66,5
+847,Algebraic Physics 1,18,7
+848,Algebraic Physics 2,107,7
+849,Algebraic Informatics 1,86,11
+850,Algebraic Informatics 2,63,11
+851,Geometric Calculus 1,79,4
+852,Geometric Calculus 2,74,4
+853,Geometric Algebra 1,111,4
+854,Geometric Algebra 2,43,4
+855,Geometric Geometry 1,20,8
+856,Geometric Geometry 2,109,8
+857,Geometric Mechanics 1,86,10
+858,Geometric Mechanics 2,83,10
+859,Geometric Data Science 1,117,1
+860,Geometric Data Science 2,17,1
+861,Geometric Linear Programming 1,55,7
+862,Geometric Linear Programming 2,68,7
+863,Geometric Neuroscience 1,43,3
+864,Geometric Neuroscience 2,99,3
+865,Geometric Modeling 1,83,7
+866,Geometric Modeling 2,23,7
+867,Geometric Probability Theory 1,60,6
+868,Geometric Probability Theory 2,63,6
+869,Geometric Methods 1,55,7
+870,Geometric Methods 2,75,7
+871,Geometric Equations 1,28,4
+872,Geometric Equations 2,61,4
+873,Geometric Number Theory 1,57,11
+874,Geometric Number Theory 2,36,11
+875,Geometric Optimization 1,99,6
+876,Geometric Optimization 2,97,6
+877,Geometric Machine Learning 1,57,11
+878,Geometric Machine Learning 2,30,11
+879,Geometric Topology 1,43,10
+880,Geometric Topology 2,76,10
+881,Geometric Physics 1,90,11
+882,Geometric Physics 2,38,11
+883,Geometric Graph Theory 1,49,8
+884,Geometric Graph Theory 2,118,8
+885,Geometric Processes 1,22,9
+886,Geometric Processes 2,84,9
+887,Geometric Inference 1,54,2
+888,Geometric Inference 2,80,2
+889,Geometric Regression Analysis 1,23,10
+890,Geometric Regression Analysis 2,119,10
+891,Geometric Programming 1,32,2
+892,Geometric Programming 2,67,2
+893,Geometric Statistics 1,93,5
+894,Geometric Statistics 2,109,5
+895,Geometric Databases 1,95,4
+896,Geometric Databases 2,85,4
+897,Geometric Physics 1,92,11
+898,Geometric Physics 2,41,11
+899,Geometric Informatics 1,79,4
+900,Geometric Informatics 2,98,4
+901,Complex Calculus 1,17,4
+902,Complex Calculus 2,84,4
+903,Complex Algebra 1,65,1
+904,Complex Algebra 2,79,1
+905,Complex Geometry 1,81,4
+906,Complex Geometry 2,57,4
+907,Complex Mechanics 1,30,6
+908,Complex Mechanics 2,115,6
+909,Complex Data Science 1,76,11
+910,Complex Data Science 2,22,11
+911,Complex Linear Programming 1,42,4
+912,Complex Linear Programming 2,28,4
+913,Complex Neuroscience 1,49,9
+914,Complex Neuroscience 2,97,9
+915,Complex Modeling 1,115,10
+916,Complex Modeling 2,67,10
+917,Complex Probability Theory 1,32,1
+918,Complex Probability Theory 2,20,1
+919,Complex Methods 1,37,7
+920,Complex Methods 2,99,7
+921,Complex Equations 1,16,7
+922,Complex Equations 2,115,7
+923,Complex Number Theory 1,72,10
+924,Complex Number Theory 2,107,10
+925,Complex Optimization 1,50,10
+926,Complex Optimization 2,37,10
+927,Complex Machine Learning 1,81,1
+928,Complex Machine Learning 2,58,1
+929,Complex Topology 1,96,3
+930,Complex Topology 2,73,3
+931,Complex Physics 1,28,6
+932,Complex Physics 2,24,6
+933,Complex Graph Theory 1,81,11
+934,Complex Graph Theory 2,31,11
+935,Complex Processes 1,67,11
+936,Complex Processes 2,41,11
+937,Complex Inference 1,44,6
+938,Complex Inference 2,62,6
+939,Complex Regression Analysis 1,39,6
+940,Complex Regression Analysis 2,47,6
+941,Complex Programming 1,91,4
+942,Complex Programming 2,102,4
+943,Complex Statistics 1,28,2
+944,Complex Statistics 2,102,2
+945,Complex Databases 1,37,7
+946,Complex Databases 2,105,7
+947,Complex Physics 1,100,2
+948,Complex Physics 2,101,2
+949,Complex Informatics 1,25,3
+950,Complex Informatics 2,33,3
+951,Differential Calculus 1,83,4
+952,Differential Calculus 2,70,4
+953,Differential Algebra 1,113,4
+954,Differential Algebra 2,96,4
+955,Differential Geometry 1,105,4
+956,Differential Geometry 2,17,4
+957,Differential Mechanics 1,34,9
+958,Differential Mechanics 2,51,9
+959,Differential Data Science 1,29,8
+960,Differential Data Science 2,45,8
+961,Differential Linear Programming 1,97,2
+962,Differential Linear Programming 2,73,2
+963,Differential Neuroscience 1,106,10
+964,Differential Neuroscience 2,19,10
+965,Differential Modeling 1,103,9
+966,Differential Modeling 2,60,9
+967,Differential Probability Theory 1,31,1
+968,Differential Probability Theory 2,59,1
+969,Differential Methods 1,73,4
+970,Differential Methods 2,39,4
+971,Differential Equations 1,88,1
+972,Differential Equations 2,110,1
+973,Differential Number Theory 1,117,4
+974,Differential Number Theory 2,103,4
+975,Differential Optimization 1,18,5
+976,Differential Optimization 2,59,5
+977,Differential Machine Learning 1,44,2
+978,Differential Machine Learning 2,50,2
+979,Differential Topology 1,58,3
+980,Differential Topology 2,32,3
+981,Differential Physics 1,25,6
+982,Differential Physics 2,114,6
+983,Differential Graph Theory 1,84,4
+984,Differential Graph Theory 2,63,4
+985,Differential Processes 1,117,6
+986,Differential Processes 2,19,6
+987,Differential Inference 1,24,2
+988,Differential Inference 2,93,2
+989,Differential Regression Analysis 1,35,11
+990,Differential Regression Analysis 2,17,11
+991,Differential Programming 1,111,11
+992,Differential Programming 2,47,11
+993,Differential Statistics 1,24,6
+994,Differential Statistics 2,24,6
+995,Differential Databases 1,50,3
+996,Differential Databases 2,120,3
+997,Differential Physics 1,96,4
+998,Differential Physics 2,55,4
+999,Differential Informatics 1,92,11
+1000,Differential Informatics 2,91,11
